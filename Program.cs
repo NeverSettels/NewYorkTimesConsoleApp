@@ -12,9 +12,11 @@ namespace NewYorkTimesApiConsoleApp
   {
     static void Main()
     {
-      var apiCallTask = ApiHelper.ApiCall("149db47e-1f76-4a8c-9e84-8f71cdcdb63e]");
+    //this api key no longer works so get your own
+      var apiCallTask = ApiHelper.ApiCall("9wkFogqwgx4qyy05TO7bE91i0fjTT0Gg");
       var result = apiCallTask.Result;
       JObject jsonResponse = JsonConvert.DeserializeObject<JObject>(result);
+      Console.WriteLine(jsonResponse);
       List<Article> articleList = JsonConvert.DeserializeObject<List<Article>>(jsonResponse["results"].ToString());
       foreach (Article article in articleList)
       {

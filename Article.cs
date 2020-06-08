@@ -4,7 +4,7 @@ using Newtonsoft.Json.Linq;
 
 namespace  NewYorkTimesApiConsoleApp
 {
-  class Article 
+  public class Article 
   {
     public string Section {get; set;}
     public string Title {get; set;}
