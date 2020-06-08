@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKsFhj7/uZFwCglBOsZeDvIjmygdnkkIrsEMuVIEGag2ytUxyzE9+QEVtrC+oTdzQ6tZJG1B9tPa5TW9wjry4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eric Settels\\Desktop\\epicodus-everyday\\NewYorkTimesApiConsoleApp\\NewYorkTimesApiConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric Settels\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Eric Settels\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}

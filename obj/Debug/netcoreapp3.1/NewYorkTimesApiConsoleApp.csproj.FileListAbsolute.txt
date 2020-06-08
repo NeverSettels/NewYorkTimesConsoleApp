@@ -1,0 +1,16 @@
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.csprojAssemblyReference.cache
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.AssemblyInfo.cs
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.exe
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.deps.json
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.runtimeconfig.json
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.runtimeconfig.dev.json
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.dll
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.pdb
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.csproj.CopyComplete
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.dll
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.pdb
+C:\Users\Eric Settels\Desktop\epicodus-everyday\NewYorkTimesApiConsoleApp\obj\Debug\netcoreapp3.1\NewYorkTimesApiConsoleApp.genruntimeconfig.cache
